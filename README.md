@@ -10,8 +10,8 @@ The server side responds in JSON format which makes the frontend scalable and fl
  - **Node JS** for Backend. 
  - **MongoDB (Mongoose)** for Database.
  - **Git/Github** for version control.
- - **Netlify** for [frontend](https://mern-sumit.netlify.app/) deployment
- - **Heroku** for [backend](https://mern-sumit.herokuapp.com/) deployment
+ - **Netlify** for [frontend](https://photo-diaries.netlify.app/) deployment
+ - **Render** for [backend](https://mernappbackhend.onrender.com/) deployment
 
 ## Overview
 The application consists of a fully operational authentication system. The users can 
