@@ -1,7 +1,7 @@
 
 # Full Stack Project using MERN
 ## Introduction
-The [project](https://mern-sumit.netlify.app/) aims at implementing a full stack web application with dedicated server and client side.
+The [project](https://photo-diaries.netlify.app/) aims at implementing a full stack web application with dedicated server and client side.
 The server side responds in JSON format which makes the frontend scalable and flexible.
 
  - **React** with Material UI for Frontend.
